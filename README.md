@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on e-mail sending
-- 🌱 I’m currently learning Flutter and Logistics
+- 🌱 I’m currently learning Flutter, Go, Rust and Logistics
 - 👯 I’m looking to collaborate on Odoo
 - 💬 Ask me about anything
 - 📫 How to reach me: danimaribeiro at gmail dot com
