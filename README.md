@@ -1,5 +1,4 @@
 ## Olá eu sou o Danimar 👋
-<br>
 
 ### 👨🏻‍💻 Meu GitHub
 <br>
