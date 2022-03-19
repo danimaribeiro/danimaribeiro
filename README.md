@@ -28,11 +28,19 @@ Se você chegou até aqui por algum projeto meu, espero que ele possa te ajudar 
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danimaribeiro&layout=compact&langs_count=7&theme=slateorange"/>
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=danimaribeiro&theme=slateorange&hide_border=true" />
 </div>
-  
+
+#
+
+Algumas linguagens que uso aqui no GitHub e tenho muito conhecimento
+<div style="display: inline_block"><br>
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+
+</div>
 
 
 
-<p > 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/danimaribeiro/count.svg" />
-</p>
