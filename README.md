@@ -1,19 +1,38 @@
-### Hi there 👋
+## Olá eu sou o Danimar 👋
+<br>
 
-- 🔭 I’m currently working on e-mail sending
-- 🌱 I’m currently learning Flutter, Go, Rust and Logistics
-- 👯 I’m looking to collaborate on Odoo
-- 💬 Ask me about anything
-- 📫 How to reach me: danimaribeiro at gmail dot com
-- ⚡ Fun fact: ...
+#
+### 👨🏻‍💻 Meu GitHub
+<br>
+Seja bem vindo(a) ao meu GitHub. Meu repositório tem como finalidade armazenar meu projetos pessoais e profissionais. 
 
- 📊 Github Stats 
+<br>
 
-![danimaribeiro's github stats](https://github-readme-stats.wasabeef.vercel.app/api?username=danimaribeiro&show_icons=true&line_height=21&show_icons=true&theme=vue&count_private=true)
+Se você chegou até aqui por algum projeto meu, espero que ele possa te ajudar muito, me siga para receber atualização de futuros projetos 😉
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danimaribeiro&layout=compact)](https://github.com/danimaribeiro/github-readme-stats)
+#
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=danimaribeiro)](https://github.com/danimaribeiro/github-readme-stats)
+### 🙋🏻 Sobre mim
+<br>
+
+💼 Trabalho na [Trustcode](https://trustcode.com.br/) <br>
+👀 Meu nome completo é Danimar Ribeiro <br>
+🌎 Sou do Brasil. Moro em Santa Catarina - Florianópolis (🏝️ Ilha da Magia)
+<br>
+
+#
+
+### 📊 Um pouco mais sobre meu GitHub
+
+<div align="center">
+<br>
+  <a href="https://github.com/danimaribeiro">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=danimaribeiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danimaribeiro&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=danimaribeiro&theme=dark&hide_border=true" />
+</div>
+  
+
 
 
 <p > 
