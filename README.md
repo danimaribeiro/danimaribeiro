@@ -24,9 +24,9 @@ Se você chegou até aqui por algum projeto meu, espero que ele possa te ajudar 
 <div align="center">
 <br>
   <a href="https://github.com/danimaribeiro">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=danimaribeiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danimaribeiro&layout=compact&langs_count=7&theme=dark"/>
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=danimaribeiro&theme=dark&hide_border=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=danimaribeiro&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danimaribeiro&layout=compact&langs_count=7&theme=gotham"/>
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=danimaribeiro&theme=gotham&hide_border=true" />
 </div>
   
 
