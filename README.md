@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on e-mail sending
-- 🌱 I’m currently learning Flutter, Go, Rust and Logistics
-- 👯 I’m looking to collaborate on Odoo
+- 🔭 I’m currently working on API integration
+- 🌱 I’m currently learning C, Go and databases
+- 👯 I’m looking to collaborate on Postgres
 - 💬 Ask me about anything
 - 📫 How to reach me: danimaribeiro at gmail dot com
 - ⚡ Fun fact: ...
