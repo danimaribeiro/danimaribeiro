@@ -1,22 +1,24 @@
-### Hi there 👋
+# Hi, I'm Danimar Ribeiro 👋
 
-- 🔭 I’m currently working on API integration
-- 🌱 I’m currently learning C, Go and databases
-- 👯 I’m looking to collaborate on Postgres
-- 💬 Ask me about anything
-- 📫 How to reach me: danimaribeiro at gmail dot com
-- ⚡ Fun fact: ...
+**Senior Backend Engineer | Cloud Architecture | Distributed Systems**
 
- 📊 Github Stats 
+📍 Florianópolis, Brazil — Available for Global Remote Roles (US/EU)
 
-![danimaribeiro's github stats](https://github-readme-stats.wasabeef.vercel.app/api?username=danimaribeiro&show_icons=true&line_height=21&show_icons=true&theme=vue&count_private=true)
+With over 15 years of software engineering experience, I specialize in architecting distributed backend systems, automating mission-critical business workflows, and solving extreme performance bottlenecks.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danimaribeiro&layout=compact)](https://github.com/danimaribeiro/github-readme-stats)
+### 🚀 What I'm doing now
+- 🦀 **Currently building:** [Droid](https://github.com/danimaribeiro/droid), a relational database engine written from scratch in Rust, Zig, C, and C++ to explore low-level database internals (B-Trees, Lexers, Pagers).
+- ✉️ **Recent Impact:** Redesigned core email delivery services at AdRoll in Python, boosting throughput by 60x (from 5 to 300 emails/s) and architecting a highly concurrent background scheduler module in Go.
+- 🏢 **Previous Journey:** Left my Physics degree to Co-Found and act as CTO at **Trustcode**, scaling an engineering team and leading the architectural development of Odoo ERP localization for the Brazilian market, powering tax compliance for 50+ enterprise clients.
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=danimaribeiro)](https://github.com/danimaribeiro/github-readme-stats)
+### 🛠️ Tech Stack & Skills
+- **Core Languages:** Python, Go, C#, SQL, JavaScript/React. Exploring Rust & Zig.
+- **Cloud & DevOps (AWS):** ECS, EC2, Aurora RDS, DynamoDB, Terraform, Docker, Ansible.
+- **Architectures:** High-Throughput Background Processing, Microservices, Odoo ERP.
+- **Databases:** PostgreSQL, Oracle, MySQL.
 
-
-<p > 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/danimaribeiro/count.svg" />
-</p>
+### 🌐 Let's Connect
+- 👨‍💻 **Portfolio & Resume:** [danimar.dev](https://danimaribeiro.github.io)
+- 💼 **LinkedIn:** [in/danimaribeiro](https://linkedin.com/in/danimaribeiro)
+- 🎥 **YouTube:** [@DanimarRibeiro](https://youtube.com/@DanimarRibeiro)
+- 📫 **Email:** danimaribeiro@gmail.com
